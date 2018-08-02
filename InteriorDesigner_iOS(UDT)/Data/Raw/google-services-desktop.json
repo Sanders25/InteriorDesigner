@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "645949213304-6fhmf8l3n85768uk4755abkddnk6pvmc.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfoHtuCSi4YFasPO5Ev-5QuGtp1vw2Dno"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:645949213304:ios:c34afc06b204b89b", 
+        "android_client_info": {
+          "package_name": "com.PB.IteriorDesigner"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "interiordesigner-417ed.appspot.com", 
+    "project_id": "interiordesigner-417ed", 
+    "firebase_url": "https://interiordesigner-417ed.firebaseio.com", 
+    "project_number": "645949213304"
+  }
+}
